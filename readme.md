@@ -4,7 +4,7 @@ To run the game you need python version 3 and above.
 
 Press space to play the game at the start.
 
-It takes 10 secs after Game Over.
+It takes 10 secs after Game Over to start over.
 
 Here is a screen shot of the game.
 
